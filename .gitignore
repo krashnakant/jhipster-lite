@@ -8,6 +8,7 @@
 /tests-ci/.pid-jhlite
 /roadmap/*.png
 !/roadmap/spring_boot_project.png
+test-report.xml
 
 ######################
 # Node
